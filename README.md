@@ -57,3 +57,7 @@ npm run dev
 ```
 6. Browse:
 [http://localhost:5173](http://localhost:5173)
+
+## Research Background
+
+This idea originally came to me while working on the [AVAX password crack problem using GPU computing](https://github.com/format37/avax-pw-crack.git), which requires operations with large hexadecimal numbers and involves research into advanced multiplication methods such as Strassen and Karatsuba algorithms. The geometric approach to multiplication presented here offers an alternative perspective that could potentially be leveraged in specialized computing scenarios. 
